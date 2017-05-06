@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 69215ca6714c0dc4fbb72fcd33ca4479
+timeCreated: 1492875487
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BeaufortforLOL-Bold
+  fontNames:
+  - BeaufortforLOL-Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

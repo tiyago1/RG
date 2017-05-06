@@ -1,0 +1,17 @@
+LOL-STATIC-DATA-V1.2
+
+--/api/lol/static-data/{region}/v1.2/champion  -- https://global.api.riotgames.com/api/lol/static-data/TR/v1.2/champion?champData=tags&api_key=RGAPI-62f9e85c-e64d-4c63-928f-01dca1bf4019
+https://global.api.riotgames.com/api/lol/static-data/TR/v1.2/champion?champData=partype,tags&dataById=false&locale=tr_TR&api_key=RGAPI-62f9e85c-e64d-4c63-928f-01dca1bf4019
+https://global.api.riotgames.com/lol/summoner/v3/summoners/by-name/ds?api_key=RGAPI-62f9e85c-e64d-4c63-928f-01dca1bf4019
+https://global.api.riotgames.com/lol/summoner/v3/summoners/by-name/darkcravlet?api_key=RGAPI-62f9e85c-e64d-4c63-928f-01dca1bf4019
+RU
+LAN
+EUNE
+OCE
+TR
+JP
+KR
+BR
+NA
+EUW
+LAS
